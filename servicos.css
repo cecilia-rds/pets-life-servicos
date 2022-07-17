@@ -1,0 +1,21 @@
+body {
+    background-color: #FFE8EC;
+    dis
+}
+.servicos-img {
+    max-width: 50%;
+    height: 70%;
+    border-radius: 10px;
+    float: right;
+    margin: 5%;
+}
+.servicos-lista {
+    margin: 5%;
+    float: left;
+}
+.servicos-item {
+    margin: 5%;
+    font-size: 2rem;
+ 
+
+}
