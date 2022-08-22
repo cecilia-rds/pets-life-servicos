@@ -1,5 +1,5 @@
 
-> Status do projeto: > :warning (Em desenvolvimento)
+> Status do projeto: :warning: (Em desenvolvimento)
 
 ## Descrição do projeto:
 
